@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WXAutoClick</string>
+    <string name="accessibility_service_label">微信模拟操作</string>
+    <string name="accessibility_service_description">微信模拟操作</string>
+</resources>
